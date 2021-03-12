@@ -1,0 +1,1 @@
+/Users/preeti/Analysis/NTuplesTrain/pass1/AliAOD.root
